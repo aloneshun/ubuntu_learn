@@ -7,5 +7,7 @@ gsettings set com.canonical.Unity.Launcher launcher-position Bottom
 ```
 可以将`Bottom`改为`Left`。
 
-
+##相关操作
+###更新DNS
+`/etc/rc.d/init.d/nscd restart`
 
